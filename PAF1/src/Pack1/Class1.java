@@ -13,7 +13,8 @@ public class Class1 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("This is for familiaring with git hub , git bash , git push activities under PAF");
+		System.out.println("This is for familiaring with git hub , git bash , git push activities under PAF"
+				+ "Now I have add some changes . can you see here?");
 
 	}
 
